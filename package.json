@@ -1,0 +1,15 @@
+{
+  "name": "fluxreactapp",
+  "version": "1.0.0",
+  "description": "A app using reactjs and flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "httos://github.com/kkotwal94/FluxReddit"
+  },
+  "author": "Karan Kotwal",
+  "license": "ISC"
+}
